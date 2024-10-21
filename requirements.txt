@@ -1,0 +1,13 @@
+yfinance
+numpy
+pandas
+scipy
+scikit-learn
+pytest
+pyaml
+joblib
+ibapi
+matplotlib
+coverage
+python-dateutil
+pytz
